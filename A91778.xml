@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The warlike, noble, and prosperous proceedings of the Protestant army, in Ireland. Being the true copy of a letter, sent from Mr. Thomas Richard marchant in Dublin: to Mr. Thomas Andrewes grocer without Newgate, in the parish of St. Sepulchres. Brought over by the last post Apr. 30. 1642. Wherein amongst divers others is related, a very memorable victory obtained by the English, wherein 1800 of the rebels were hanged, and slaine, 16. of their colours taken, and 800 armes, with the names of three chiefe commanders of the rebells, kild at the same time whose heads by proclamation, were vallued at 400 l a peece. Also how 3500 Scots and English, are lately landed in Ireland with 2000 armes, besides 700 horse. April, 19. Also an order by the house of Commons, for the releife of those voluntiers that doe, or shall serve in the Irish warre. Hen, Elsinge, Cler. Parl. D. Com.</title>
+            <author>Richard, Thomas, Merchant in Dublin.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91778</idno>
+            <idno type="STC">Wing R1369</idno>
+            <idno type="STC">Thomason E145_11</idno>
+            <idno type="STC">ESTC R19076</idno>
+            <idno type="EEBO-CITATION">99860567</idno>
+            <idno type="PROQUEST">99860567</idno>
+            <idno type="VID">112690</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91778)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112690)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E145[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The warlike, noble, and prosperous proceedings of the Protestant army, in Ireland. Being the true copy of a letter, sent from Mr. Thomas Richard marchant in Dublin: to Mr. Thomas Andrewes grocer without Newgate, in the parish of St. Sepulchres. Brought over by the last post Apr. 30. 1642. Wherein amongst divers others is related, a very memorable victory obtained by the English, wherein 1800 of the rebels were hanged, and slaine, 16. of their colours taken, and 800 armes, with the names of three chiefe commanders of the rebells, kild at the same time whose heads by proclamation, were vallued at 400 l a peece. Also how 3500 Scots and English, are lately landed in Ireland with 2000 armes, besides 700 horse. April, 19. Also an order by the house of Commons, for the releife of those voluntiers that doe, or shall serve in the Irish warre. Hen, Elsinge, Cler. Parl. D. Com.</title>
+                  <author>Richard, Thomas, Merchant in Dublin.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright, in the Old-Baly,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: May the second, 1642.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Andrewes, Thomas --  Early works to 1800.</term>
+               <term>Protestants --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112690:1" rendition="simple:additions"/>
+            <p>
+               <hi>May</hi> the ſecond, 1642. THE WARLIKE, NOBLE, And proſperous proceedings of the Proteſtant Army in, IRELAND.</p>
+            <p>Being the true Copy of a Letter, ſent from Mr. <hi>Thomas Richard</hi> Marchant in <hi>Dublin:</hi> to Mr. <hi>Thomas Andrewes</hi> Grocer without <hi>Newgate,</hi> in the Pariſh of St. <hi>Sepulchres.</hi>
+            </p>
+            <p>Brought over by the laſt Poſt <hi>Apr.</hi> 30. 1642.</p>
+            <p>Wherein amongſt divers others is related, a very memo<g ref="char:EOLhyphen"/>rable victory obtained by the Engliſh, wherein 1800 of the Rebels were ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ged, and ſlaine, 16. of their Colours taken, and 800 Armes, with the names of three chiefe Commanders of the Rebells, kild at the ſame time whoſe heads by Proclamation, were vallued at 400 l. a Peece.</p>
+            <p>Alſo how 3500 <hi>Scots</hi> and <hi>Engliſh,</hi> are lately landed in <hi>Ireland</hi> with 2000 Armes, beſids 700 Horſe.</p>
+            <p>
+               <hi>April,</hi> 19. Alſo an Order by the houſe of Commons, for the releife of thoſe Voluntiers that doe, or ſhall ſerve in the Iriſh warre.</p>
+            <p>
+               <hi>Hen, Elſinge, Cler. Parl. D. Com.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>Iohn Wright,</hi> in the <hi>Old-Baly.</hi> 1642.</p>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:112690:2"/>
+            <p>Die Veneris 29. April. 1642.</p>
+            <p>IT is this day declared, and ſo Or<g ref="char:EOLhyphen"/>dered by the Commons Houſe of Parliament, that all ſuch Perſons as ſhall ſerve the King and the Com<g ref="char:EOLhyphen"/>mon-wealth, in the Warre as Volun<g ref="char:EOLhyphen"/>tiers, and receive wages, after they have received it, they are within the words and intention of the Law, that provide for the reliefe of maimed Souldiers.</p>
+            <closer>
+               <signed>Hon. Elſinge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112690:2"/>
+            <head>Dublin the 19<hi rend="sup">th</hi> of <hi>April.</hi> 1642.</head>
+            <p>
+               <seg rend="decorInit">L</seg>Oving Cozen, this is to give you notice ſince my laſt on Thurſday, the firſt preſent; Sir <hi>Simon Harcourt</hi> was honorably interred, here in this Towne, by the Lord Generall, and all the Chevalry: the ſolemnity being ended with 3000 ſhot in three vollies, beſides Ordinance: on Saterday the third, my Lord of <hi>Ormond,</hi> Sir <hi>Charles Coot,</hi> and other Commanders marched out of Dublin with about 3500 foote, 1000 horſe, five peeces of Ordinance, field peeces all, but one, and 150 Waggons, with proviſion of Bisket, &amp;c. For 14 dayes, God be their good ſpeed; The ſame day there ſafely arrived, God be praiſed the Coun<g ref="char:EOLhyphen"/>teſſe of <hi>Ormond</hi> and <hi>Oſſorii</hi> with all my Lords children, which by Gods providence and great mercy got from a<g ref="char:EOLhyphen"/>mongſt the Rebells, Her uncle the Lord <hi>Mongarrot</hi> giving conſent at firſt ſhe ſhould depart, but ſending after her up<g ref="char:EOLhyphen"/>on the way with a letter to countermand her, and her chil<g ref="char:EOLhyphen"/>dren back, but ſhe being got out of the Rebells reach a little, made anſwer that by Gods helpe ſhee would on. Otherwiſe ſhe would ſee who durſt ſtay her; ſo ſhe ſpeedi<g ref="char:EOLhyphen"/>ly got into a boate againe, her ſervants neere a 100 Horſe and foot, marching on each ſide of the river, till ſhe came to the Fort <hi>Duncannon,</hi> where ſhe lay two dayes, and then tooke ſhipping in the Kings Pinace, ſent on purpoſe for her, while the Pinnaces long boat went up the River for the Counteſſe; The Pinnace had two French Ships in chaſe, but wanting her boat, they being ſmall run into <hi>Dungarvan,</hi> its doubted leſt ſome ammunition be brought to the Rebells in them. The Rebell commandeth the Ci<g ref="char:EOLhyphen"/>ty of <hi>Waterford</hi> as yet, and the Fort, but Captaine <hi>Cole</hi> of
+<pb facs="tcp:112690:3"/>
+               <hi>Briſtow,</hi> in a Ship of 300 Tunne 28 peeces of Ordinances, intended at the comming away of the Counteſſe to fire the paſſage, and to do further ſervice, who had forborne untill then for her ſake. Its reported that within halfe an houre that the Counteſſe left <hi>Carricke,</hi> the Rebells came down with 1000 men to have ſtaid her. They further re<g ref="char:EOLhyphen"/>port the Rebels begin there to jarr, one ſtealing from ano<g ref="char:EOLhyphen"/>ther, <hi>Montgarrots</hi> ſon is Governour <hi>of Waterford.</hi>
+            </p>
+            <p>On Munday we had newes by ſome were ſent home with ſome maimed Soldiers, that on Sunday ours tooke a Caſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> called <hi>Suttons</hi> Caſtle of <hi>Stippon,</hi> a ſtrong place within one mile of the Naſſe, and blew it up; But within three or foure miles of this town, the Rebells ſet upon our convoy being but 12 horſe kild all the maimed men, the reſt fled to Towne, We thinke the Army is marched to <hi>Athie,</hi> and to the Fort of <hi>Leaffe,</hi> and from thence to <hi>Kill<g ref="char:EOLhyphen"/>kenny,</hi> by the way relieving of thoſe Caſtles up and downe, have kept out the Rebels, God be their good ſpeed.</p>
+            <p>Yeſterday being Tueſday my Lord <hi>Moore</hi> with ſome 50 Horſe, came to Town from Sir <hi>Henry Tichborne</hi> at <hi>Dundalke</hi> confirming the laſt weeks adviſe of the Rebels overthrow there; brought with them three priſoners, one <hi>Coronell Barnwell, Cooly,</hi> and Sir <hi>Thady Duffe</hi> his ſon of this Towne, they have recovered of pillage at <hi>Dundalke</hi> as the common report goeth, 20000l, or 30000l ſtarling, with pillage as hides, Tallow, &amp;c. Which they proffer to ſale, to the Dutch in this Towne, the onely men have money now, have bought up, and Gabers ſent about for it.</p>
+            <p>Laſt night and this night, the Rebels have preſumed to come: yea they began in the open day about two of the Clock to fire ſome Townes, within three or foure miles of this Towne being Engliſh habitations toward the Moun<g ref="char:EOLhyphen"/>taine, which were left unburnt of our men. And preſum<g ref="char:EOLhyphen"/>ing upon the abſence of our men, were ſo bold laſt night
+<pb facs="tcp:112690:3"/>about 12 of the Clock to come into <hi>Killma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lm,</hi> within halfe a mile of this City, and there ſet two fartheſt of the houſes on fire, then retreated, and did no more harme; But my Lord <hi>Lambarts,</hi> Deputy governor of this Towne, ſallied, after them with two troopes of Horſe, and 500 Foot, overtooke ſome ſtraglers of them, and hanged ſome 40, or 60 of them about ſix mile from the Towne; The Rebell ſometimes ſhowing himſelfe with a body of horſe, but not daring to ſtand our mercy: our men having fired two of their Townes that day, returned with good booty.</p>
+            <p>Here is arrived a ſhip of <hi>London,</hi> or of <hi>Briſtow,</hi> called the imployment, one <hi>Wale</hi> Captaine of her, ſome 400 Yun, ſhe came from the Weſt of <hi>Ireland,</hi> laden with Bisket for this port: At her being in the Weſt, ſhe did light up<g ref="char:EOLhyphen"/>on a Barque was unlading of Ammunition at <hi>Baltimore,</hi> within 8 mile of the <hi>Naas,</hi> eight Commanders, 12. Prieſts and Jeſuits, beſides others who were all landed before his comming, and 500 Muskets; But the Barque and five Barrells of powder, her covered with ſome 9 or 10 of the Saylors being all French, and came out of <hi>France;</hi> This Ship is ſpeedily to go about for <hi>Gallway</hi> with powder and Bisket: for within theſe few dayes here came by Sea a bo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, brought newes from the Fort that the Townes-men had ſeiſed upon a <hi>London-Ship</hi> lay there, and had planted 8 or 9 peeces of her Ordnance upon their Walls, had got in her 25 Barrells of powder. That they had proclaimed that all thoſe Proteſtants that were in the Towne, and did not go to Maſſe by <hi>Eaſter day</hi> ſhould be hanged; But <hi>Lieu<g ref="char:EOLhyphen"/>tenant Willowby</hi> writ here to his Father, Sir <hi>Francis Willowby:</hi> That hee hoped they would all before that time finde means to come unto him, for whom he would provide, and that he had proviſion hard by for two moneths; that he had butten barrells of powder if he had ſtore, he would either force the Towne to ſend him in ſuch neceſſaries
+<pb facs="tcp:112690:4"/>as he wanted, or would ſpeedily beat the Towne about their eares.</p>
+            <p>Since the writing of the aboveſaid on Sunday the 17. of this preſent <hi>April</hi> (God be praiſed) part of our Army, the reſt being left behind at the <hi>Naſſe,</hi> under command of Sir <hi>Charles Coot,</hi> came into that Towne, the Trumpets ſoun<g ref="char:EOLhyphen"/>ding victory before the Lord-Generall, Some 20. miles off this Towne comming home; they having given the re<g ref="char:EOLhyphen"/>bells leave to follow them 10. miles and above, being to draw them on to fight, at laſt finding a place ſomething Commodious for the purpoſe; ours Sounded a chal<g ref="char:EOLhyphen"/>lenge, and both ſides having Ordered their men, our Ordnance began to play, but in reſpect of the advantage of the place, they did little barme, but 4. Troopes of our horſe being appointed to charge, gave an aſſault upon their maine Battaile, beat quite through them, and they preſently fled, their owne horſe flanking their Battaile, and not daring to releive them, our horſe killing of them halfe a mile, untill they got a Bog, which ſaved the reſt; wee killed 600. or 700. in the place, amongſt them divers of the great Commanders, three of the chiefeſt of them were killed, their heads were brought to Towne, the one <hi>Darmand Camenough</hi> a great man a Colonell, another head brought of one <hi>Birnes,</hi> the other a Butler, uncle to the Lord <hi>Dunboyne;</hi> there was taken 15. or 16. of their Colours, whereof their Generalls Colours was one, tooke at leaſt 800. Armes, it's further there reported, that the Lord <hi>Mongarets</hi> Sonne was kill'd in the field: there was no priſoners taken, but two Engliſh men, that was forced along with them to tend their Carriages, their chiefe Car<g ref="char:EOLhyphen"/>ridge drawne by eight Oxen, wherein was their powder, and other proviſion was taken alſo, the priſoners that were taken being Engliſh, that they had forced, for no quarter was given to the Rebells: two dayes before they joyned Battaile, the Rebells held a Conſultation, and a<g ref="char:EOLhyphen"/>greed
+<pb facs="tcp:112690:4"/>who ſhould have ſuch and ſuch Carriages &amp;c. And a long debate amongſt them, whether or no that any quarter ſhould be given, at laſt they agreed no quarter ſhould be given. God fought for us, bleſſed be his name, the rebells had all advantages almoſt could be deſired, a riſing ground, the wind, naturall entrenchment; and three or foure men to one, having the ſtrength of 7. Counties, 10000 or 11000 fighting men, many of the Nobillity, the Lord <hi>Mongarret,</hi> the Lord <hi>Akewin,</hi> Baron <hi>Lohmar,</hi> and di<g ref="char:EOLhyphen"/>vers others being there; of our ſide praiſed be God, but 4. troopers kild, &amp; none of the foot, for they could not come to fight neerer then at great diſtance, being the re<g ref="char:EOLhyphen"/>bell was ſtrongly entrenched, and ſtood not long: They have had divers skirmiſhes in the woods, going to the Fort, Leaſſe, Athy, the Bour, and two other places, the rebell never before ſhewing himſelfe, but in Boggs, and Woods, places of great advantage. God be praiſed in this Journey, in all is reckoned to be loſt of our ſide, but 16 or 20. men at the moſt, we have releived and brought home almoſt 1000. poore diſtreſſed hunger-ſtarved people, men, women, and Children, and its thought ours have kil<g ref="char:EOLhyphen"/>led and hanged of the Rebells in the Journey 1800. of them, ſome report 2000.</p>
+            <p>Here is certaine intelligence come to Towne, that 3500. Scots landed in the North, ſome Engliſh with 2000. Armes: if wee had here but two or three thouſand foot more, beſides theſe 700. horſe landed here laſt weeke, that we might have two flying Armies in theſe parts, we are in hope that wee ſhould doe great good upon them: one moneth now gained in the forwarding our cauſe, would doe much good, to beat the Rebells off the plowed lands, within the Pale before harveſt, for its a report they be<g ref="char:EOLhyphen"/>gin to pinch already for want of Corne; and if it bee ſud<g ref="char:EOLhyphen"/>denly followed, I am of opinion they will bee ſuddenly ſtarved: many 1000. of them<g ref="char:punc">▪</g> on Fryday next is appoin<g ref="char:EOLhyphen"/>ted
+<pb facs="tcp:112690:5"/>by the ſtate, to be a day of thanksgiving, for this deli<g ref="char:EOLhyphen"/>very; our Army at that time they joyned Battaile, being but 2500. fighting men, the reſt left in Garriſons, and o<g ref="char:EOLhyphen"/>ther occaſions abroad; our neighbours in High-ſtreet are daily found out to be coadjutors and aſſiſtants to the Re<g ref="char:EOLhyphen"/>bells, by letters found in the pockets of the ſlaine; its re<g ref="char:EOLhyphen"/>ported there is a 100 of their names knowne in this towne, that have given aime to their proceedings, this week there was one <hi>Aſhes</hi> man a Mercer taken with a bag, 5. pound of powder carrying to the Rebells, which hee hath con<g ref="char:EOLhyphen"/>feſt was a trade with him, formerly being paid 20. ſhil<g ref="char:EOLhyphen"/>lings a pound &amp; yeſterday Alderman <hi>Beg,</hi> was committed to the Caſtle, his goods ſealed up, for no leſſe (ſuppo<g ref="char:EOLhyphen"/>ſed) then treaſon.</p>
+            <p>This night againe being the 18. God bee praiſed, here arrived newes from Drahedah, by Captaine <hi>Marroe,</hi> and part of his troope bringing news, that the Rebells making head in two ſeverall places neere Droheda, with 800. or 1000. in each company, was preſently charged by my Lord <hi>Moore,</hi> Sir <hi>Henry Tichbourne,</hi> being up in the country at Dundalk, but the Rebels preſently fled at each place, and ſome of them werekild, but no great number; I pray God continue this good newes: Sir <hi>Charles Coot</hi> is at the Naſſe, hath fortified the place, and is in hand already with a plantation there, being ſetling of a hundred poore families, that were brought out of the Country of the ſtript Engliſh, by his command the country beginneth to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd in Corne apace thither: we ſuppoſe ſo ſoone as he hath ſecured the place by two workes which are in hand; our Army ſhall march forth againe, this towne is of great conſequence, 12. miles from the City, the rebells having no market Towne now within 20. miles of us. I have been tedious, but only deſirous to give you ample ſatisfaction concerning theſe paſſages I am capable of here, accor<g ref="char:EOLhyphen"/>ding to your requeſt, I take my leave and reſt,</p>
+            <closer>
+               <signed>Your ever Loving Cozen, THO. RICHARD.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
